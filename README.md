@@ -47,3 +47,4 @@ The only mail sent by the app is for the "Forgot Password" feature. You can use 
     python -m smtpd -n -c DebuggingServer localhost:1025
 
 If you prefer to use your own mailserver, simply add your settings to `settings.py`.
+# Joyline
